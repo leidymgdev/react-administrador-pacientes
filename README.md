@@ -2,7 +2,7 @@
 
 Proyecto administrador de pacientes React
 
-### Url productiva: https://keen-wright-830528.netlify.app/
+### Url productiva: https://relaxed-dijkstra-cb7b1b.netlify.app/
 
 # Tecnologías Usadas
 
